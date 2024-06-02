@@ -1,0 +1,6 @@
+@import '../styles/constant';
+
+.navbar_container{
+  @include flex(row,center,space-between);
+  background-color: blue;
+}
